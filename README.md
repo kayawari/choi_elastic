@@ -11,6 +11,7 @@ ElasticSearch触ってみたかったので、Docker上に構築
 ```
 $ cd path/to/this proj directory
 $ docker-compose up
+```
 
 # その他参考資料
 * 
